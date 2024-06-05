@@ -1,7 +1,7 @@
-# SPTTA
-This is the official pytorch implementation of SPTTA.
+# PASS
+This is the official pytorch implementation of PASS.
 
-Our codebase contains the proposed SPTTA method and several compared baselines: 
+Our codebase contains the proposed PASS method and several compared baselines: 
 
 PTBN[1]/TENT[2]/TIPI[3]/DUA[4]/CoTTA[5]/SAR[6]/OCL-TTT[7]/ProSFDA[8]/DAE[9]/DPG[10]/RN-CR[11]/AdaMI[12]/VPTTA[13]
 
@@ -10,7 +10,7 @@ PTBN[1]/TENT[2]/TIPI[3]/DUA[4]/CoTTA[5]/SAR[6]/OCL-TTT[7]/ProSFDA[8]/DAE[9]/DPG[
 - TENT/RN-CR/AdaMI (outer_tta.py)
 - OCL-TTT (test_time_training_offline/ocl_tta.py)
 - ProSFDA (test_time_training_offline/prosfda.py)
-- SPTTA (sptta_{dataset}.py}
+- PASS (sptta_{dataset}.py}
 
 2. test_time_training_online
 
@@ -19,7 +19,7 @@ PTBN[1]/TENT[2]/TIPI[3]/DUA[4]/CoTTA[5]/SAR[6]/OCL-TTT[7]/ProSFDA[8]/DAE[9]/DPG[
 - DAE (dae_tta.py)
 - DGP (dpg_tta.py)
 - VPTTA (vptta_{dataset}_online.py}
-- SPTTA (sptta_{dataset}_online.py}
+- PASS (sptta_{dataset}_online.py}
 
 ## Reference
 
