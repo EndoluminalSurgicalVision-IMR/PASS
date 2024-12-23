@@ -60,3 +60,15 @@ The whole framework is built upon and inspired by the following codebase:
 - https://github.com/jeya-maria-jose/On-The-Fly-Adaptation
 - https://github.com/mr-eggplant/SAR
 - https://github.com/Chen-Ziyang/VPTTA
+
+
+Citation:
+```bibtex
+@article{zhang2024pass,
+  title={PASS:Test-Time Prompting to Adapt Styles and Semantic Shapes in Medical Image Segmentation},
+  author={Zhang, Chuyan and Zheng, Hao and You, Xin and Zheng, Yefeng and Gu, Yun},
+  journal={IEEE Transactions on Medical Imaging},
+  year={2024},
+  publisher={IEEE}
+}
+```
