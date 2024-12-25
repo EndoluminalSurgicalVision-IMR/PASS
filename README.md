@@ -1,4 +1,13 @@
 # PASS
+<div align=center><img src="main.png"></div>
+
+[**_PASS:Test-Time Prompting to Adapt Styles and Semantic Shapes in Medical Image Segmentation_**](https://ieeexplore.ieee.org/document/10812757)
+
+> By Chuyan Zhang, Hao Zheng, Xin You, Yefeng Zheng, Yun Gu
+>> Institute of Medical Robotics, Shanghai Jiao Tong University
+>> Department of Automation, Shanghai Jiao Tong University, Shanghai, China
+
+
 This is the official pytorch implementation of PASS.
 
 Our codebase contains the proposed PASS method and several compared baselines: 
