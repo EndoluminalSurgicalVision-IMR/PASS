@@ -1,4 +1,4 @@
-# PASS
+![image](https://github.com/user-attachments/assets/55290bc1-3167-4b25-9c1e-67cb59598210)# PASS
 <div align=center><img src="main.png"></div>
 
 [**_PASS:Test-Time Prompting to Adapt Styles and Semantic Shapes in Medical Image Segmentation_**](https://ieeexplore.ieee.org/document/10812757)
@@ -12,7 +12,9 @@ This is the official pytorch implementation of PASS.
 
 Dependencies:
 - torch, 1.13.1
-- python, 3.7.9  
+- torchvision, 0.14.1  
+- python, 3.7.9
+- numpy，1.19.2 
 
 
 Our codebase contains the proposed PASS method and several compared baselines: 
