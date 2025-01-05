@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/55290bc1-3167-4b25-9c1e-67cb59598210)# PASS
+# PASS
 <div align=center><img src="main.png"></div>
 
 [**_PASS:Test-Time Prompting to Adapt Styles and Semantic Shapes in Medical Image Segmentation_**](https://ieeexplore.ieee.org/document/10812757)
