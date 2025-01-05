@@ -10,6 +10,11 @@
 
 This is the official pytorch implementation of PASS.
 
+Dependencies:
+- torch, 1.13.1
+- python, 3.7.9  
+
+
 Our codebase contains the proposed PASS method and several compared baselines: 
 
 PTBN[1]/TENT[2]/TIPI[3]/DUA[4]/CoTTA[5]/SAR[6]/OCL-TTT[7]/ProSFDA[8]/DAE[9]/DPG[10]/RN-CR[11]/AdaMI[12]/VPTTA[13]
