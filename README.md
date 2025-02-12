@@ -17,7 +17,7 @@ This is the official pytorch implementation of PASS.
 - numpy，1.19.2 
 
 
-## Data Preparation
+## Link for Datasets and Pretrained Models
 
 1. [RIGA+ datasets](https://zenodo.org/records/6325549)
    
