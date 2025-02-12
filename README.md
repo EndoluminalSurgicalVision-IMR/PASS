@@ -10,12 +10,24 @@
 
 This is the official pytorch implementation of PASS.
 
-Dependencies:
+## Dependencies 
 - torch, 1.13.1
 - torchvision, 0.14.1  
 - python, 3.7.9
 - numpy，1.19.2 
 
+
+## Data Preparation
+
+1. [RIGA+ datasets](https://zenodo.org/records/6325549)
+   
+2.  [Prostate datasets](https://drive.google.com/drive/folders/1xUZTzS1-i6vPaL0lXxbMmTyI3X-SyzM2?usp=share_link)
+
+3. [Pretrained models](https://drive.google.com/drive/folders/1AwtB67eAshYHWvT01dvu-D4rBQJe_MHi?usp=sharing)
+
+
+
+## Test-time training
 
 Our codebase contains the proposed PASS method and several compared baselines: 
 
